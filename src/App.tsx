@@ -1,6 +1,6 @@
 import React from "react";
 
-function App() {
+function App(): React.JSX.Element {
   return (
     <div>
       <h1>Weather Forecast</h1>

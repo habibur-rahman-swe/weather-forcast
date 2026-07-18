@@ -11,3 +11,8 @@ yarn-error.log*
 *.log
 
 .vite
+
+# editor / OS
+.vscode/*
+!.vscode/extensions.json
+.idea
